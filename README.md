@@ -3,4 +3,13 @@
 
 <img src="e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" align="right" width="500">
 
+### 🚀 About Me
+
+- A Self-taught student focused on full-stack development with a performance-first mindset.
+- Building React apps with clean architecture.
+- Passionate about system internals.
+- Currently working on full-stack web development projects with a focus on scalability.
+- Learning the MERN stack and deepening backend expertise.
+- Reach me at **apostle1327@gmail.com**
+
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ayu-mirage&preferLogin=false"> <img  alt="Apostle1327's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Apostle1327?cardType=github&theme=ayu-mirage&preferLogin=false" /></a>
