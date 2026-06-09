@@ -13,3 +13,14 @@
 - Reach me at **apostle1327@gmail.com**
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ayu-mirage&preferLogin=false"> <img  alt="Apostle1327's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Apostle1327?cardType=github&theme=ayu-mirage&preferLogin=false" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Apostle1327&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+
+<br>
+
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
+
+![Snake animation]<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Apostle1327/Apostle1327/output/github-contribution-grid-snake.svg" />
+
+</div>
